@@ -5,7 +5,7 @@ Code for ICML2019 workshop(Understanding and Improving Generalization in Deep Le
 
 arXiv link:
 
-Reqirement: python3, numpy, scikit-learn, matplotlib, scipy
+Reqirement: python3, numpy, scikit-learn, matplotlib, scipy, pytorch
 
 This code contains implementation of two method in paper:\
 1.Joint-tsne:
